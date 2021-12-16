@@ -96,11 +96,6 @@ $(".menu li a").click(function () {
 
     // trigger mixitup
     var mixer = mixitup('.galery');
-
-    // trigger nicescroll
-    $("html").niceScroll({
-        cursorcolor : '#FF6909'
-    });
 });
 
 // javascript
